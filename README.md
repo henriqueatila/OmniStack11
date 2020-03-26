@@ -9,9 +9,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## :memo: Licença
+## 💻 Projeto
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+O Be The Hero é um projeto que visa conectar ONG's e suas causas com doadores voluntários dispostos a ajudar.
 
 ---
 
